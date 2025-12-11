@@ -91,8 +91,12 @@ After training, the app shows:
 
 > You can update these paths to match your actual filenames in the `assets/` folder.
 
-```text
-assets/
-├── app_load.png       # Initial data loaded view
-├── app_hybrid.png     # Hybrid model result
-└── app_lstm.png       # LSTM model result
+
+### Load & explore data
+![App – Load data](assets/app_load.png)
+
+### Hybrid model (CNN–LSTM)
+![Hybrid model](assets/app_hybrid.png)
+
+### LSTM model
+![LSTM model](assets/app_lstm.png)
